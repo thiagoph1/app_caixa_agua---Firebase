@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250046250659",
+    "firebase_url": "https://esp8266-teste-d9365-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-teste-d9365",
+    "storage_bucket": "esp8266-teste-d9365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250046250659:android:de303dfe8c0d0c2b9c8916",
+        "android_client_info": {
+          "package_name": "com.example.app_caixa_agua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250046250659-0f2rbnnh3lm2jhkuvpmu8037leud9eef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAELq6udRZ2U98UmcCmO0wcRncCMtQPDqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250046250659-0f2rbnnh3lm2jhkuvpmu8037leud9eef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250046250659-3c7sh8h25iqfjtkede8cffrp5dk5ovb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appCaixaAgua"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
